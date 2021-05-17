@@ -2,13 +2,13 @@
 
 [https://www.raspberrypi.org/documentation/installation/noobs.md](https://www.raspberrypi.org/documentation/installation/noobs.md)
 
-[https://pi-hole.net/](https://pi-hole.net/)
+[https://pi-hole.net](https://pi-hole.net/)
 
-[https://github.com/pi-hole/pi-hole/](https://github.com/pi-hole/pi-hole/)
+[https://github.com/pi-hole/pi-hole](https://github.com/pi-hole/pi-hole/)
 
 [https://projects.raspberrypi.org/en/projects/?software\[\]=html-css-javascript](https://projects.raspberrypi.org/en/projects/?software[]=html-css-javascript)
 
-[https://raspberrytips.com/raspberry-pi-buying-guide/](https://raspberrytips.com/raspberry-pi-buying-guide/)
+[https://raspberrytips.com/raspberry-pi-buying-guid](https://raspberrytips.com/raspberry-pi-buying-guide/)
 
 [https://www.techrepublic.com/article/raspberry-pi-the-smart-persons-guide/](https://www.techrepublic.com/article/raspberry-pi-the-smart-persons-guide/)
 
