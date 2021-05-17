@@ -8,7 +8,7 @@
 
 [https://projects.raspberrypi.org/en/projects/?software\[\]=html-css-javascript](https://projects.raspberrypi.org/en/projects/?software[]=html-css-javascript)
 
-[https://raspberrytips.com/raspberry-pi-buying-guid](https://raspberrytips.com/raspberry-pi-buying-guide/)
+[https://raspberrytips.com/raspberry-pi-buying-guide](https://raspberrytips.com/raspberry-pi-buying-guidee/)
 
 [https://www.techrepublic.com/article/raspberry-pi-the-smart-persons-guide/](https://www.techrepublic.com/article/raspberry-pi-the-smart-persons-guide/)
 
