@@ -1,26 +1,20 @@
 # \# G E N E R A T O R S
 
-{% embed url="https://loading.io/color/random/" %}
+[https://loading.io/color/random/](https://loading.io/color/random/)
 
-{% embed url="https://carbon.now.sh/" %}
+[https://carbon.now.sh/](https://carbon.now.sh/)
 
-{% embed url="https://palettegenerator.com/" %}
+[https://palettegenerator.com/](https://palettegenerator.com/)
 
-{% embed url="https://neumorphism.io/" %}
+[https://neumorphism.io/](https://neumorphism.io/)
 
-{% embed url="https://convertio.co/png-svg/" %}
+[https://convertio.co/png-svg/](https://convertio.co/png-svg/)
 
-{% embed url="https://responsivebreakpoints.com/" %}
+[https://responsivebreakpoints.com/](https://responsivebreakpoints.com/)
 
-{% embed url="https://box-shadow.dev/" %}
+[https://box-shadow.dev/](https://box-shadow.dev/)
 
-{% embed url="https://wireframer.art/" %}
+[https://wireframer.art/](https://wireframer.art/)
 
-{% embed url="https://www.kirilv.com/fork-ribbon-css-builder/" %}
-
-{% embed url="https://justcode.today/filters/" %}
-
-{% embed url="https://omatsuri.app/" %}
-
-{% embed url="https://css-doodle.com/" %}
+[https://www.kirilv.com/fork-ribbon-css-builder/](https://www.kirilv.com/fork-ribbon-css-builder/)
 
