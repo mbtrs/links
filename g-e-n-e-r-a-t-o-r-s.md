@@ -1,20 +1,26 @@
 # \# G E N E R A T O R S
 
-[https://loading.io/color/random/](https://loading.io/color/random/)
+{% embed url="https://loading.io/color/random/" %}
 
-[https://carbon.now.sh/](https://carbon.now.sh/)
+{% embed url="https://carbon.now.sh/" %}
 
-[https://palettegenerator.com/](https://palettegenerator.com/)
+{% embed url="https://palettegenerator.com/" %}
 
-[https://neumorphism.io/](https://neumorphism.io/)
+{% embed url="https://neumorphism.io/" %}
 
-[https://convertio.co/png-svg/](https://convertio.co/png-svg/)
+{% embed url="https://convertio.co/png-svg/" %}
 
-[https://responsivebreakpoints.com/](https://responsivebreakpoints.com/)
+{% embed url="https://responsivebreakpoints.com/" %}
 
-[https://box-shadow.dev/](https://box-shadow.dev/)
+{% embed url="https://box-shadow.dev/" %}
 
-[https://wireframer.art/](https://wireframer.art/)
+{% embed url="https://wireframer.art/" %}
 
-[https://www.kirilv.com/fork-ribbon-css-builder/](https://www.kirilv.com/fork-ribbon-css-builder/)
+{% embed url="https://www.kirilv.com/fork-ribbon-css-builder/" %}
+
+{% embed url="https://justcode.today/filters/" %}
+
+{% embed url="https://omatsuri.app/" %}
+
+{% embed url="https://css-doodle.com/" %}
 
