@@ -1,12 +1,12 @@
 # \# BACKGROUND\_\_G E N E R A T O R S
 
-[https://www.heropatterns.com/](https://www.heropatterns.com/)
+{% embed url="https://www.heropatterns.com/" %}
 
-[https://www.svgbackgrounds.com/](https://www.svgbackgrounds.com/)
+{% embed url="https://www.svgbackgrounds.com/" %}
 
-[https://uigradients.com/](https://uigradients.com/)
+{% embed url="https://uigradients.com/" %}
 
-[https://www.grabient.com/](https://www.grabient.com/)
+{% embed url="https://www.grabient.com/" %}
 
-[https://doodad.dev/pattern-generator](https://doodad.dev/pattern-generator)
+{% embed url="https://doodad.dev/pattern-generator" %}
 

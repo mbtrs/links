@@ -1,36 +1,26 @@
 # \# I C O N S
 
-{% embed url="https://konpa.github.io/devicon/" %}
+[https://konpa.github.io/devicon/](https://konpa.github.io/devicon/)
 
-{% embed url="https://freeicons.io/" %}
+[https://freeicons.io/](https://freeicons.io/)
 
-{% embed url="https://www.toptal.com/designers/htmlarrows/" %}
+[https://www.toptal.com/designers/htmlarrows/](https://www.toptal.com/designers/htmlarrows/)
 
-{% embed url="https://petershaggynoble.github.io/MDI-Sandbox/" %}
+[https://petershaggynoble.github.io/MDI-Sandbox/](https://petershaggynoble.github.io/MDI-Sandbox/)
 
-{% embed url="https://dmitrybaranovskiy.github.io/raphael/icons/" %}
+[https://dmitrybaranovskiy.github.io/raphael/icons/](https://dmitrybaranovskiy.github.io/raphael/icons/)
 
-{% embed url="https://simpleicons.org/" %}
+[https://simpleicons.org/](https://simpleicons.org/)
 
-{% embed url="https://materialdesignicons.com/" %}
+[https://materialdesignicons.com/](https://materialdesignicons.com/)
 
-{% embed url="https://www.svgrepo.com/" %}
+[https://www.svgrepo.com/](https://www.svgrepo.com/)
 
-{% embed url="https://cssicon.space/\#/" %}
+[https://cssicon.space/\#/](https://cssicon.space/#/)
 
-{% embed url="https://aymkdn.github.io/characters/" %}
-
-
+[https://aymkdn.github.io/characters/](https://aymkdn.github.io/characters/)
 
 [https://heroicons.com/](https://heroicons.com/)
 
-{% embed url="https://iconic.app/" %}
-
-
-
-{% embed url="https://iconoir.com/" %}
-
-
-
-{% embed url="https://remixicon.com/" %}
+[https://iconic.app/](https://iconic.app/)
 
