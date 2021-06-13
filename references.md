@@ -1,4 +1,4 @@
-# \# R E F E R E N C E S
+# \# REFERENCES
 
 [https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
 

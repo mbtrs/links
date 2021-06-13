@@ -1,4 +1,4 @@
-# \# C H E A T S H E E T S
+# \# CHEATSHEETS
 
 {% embed url="https://vimsheet.com/" %}
 

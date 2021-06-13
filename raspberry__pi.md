@@ -1,4 +1,4 @@
-# \# R A S P B E R R Y\_\_ P I
+# \# RASPBERRY\_\_PI
 
 [https://www.raspberrypi.org/documentation/installation/noobs.md](https://www.raspberrypi.org/documentation/installation/noobs.md)
 
