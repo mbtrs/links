@@ -1,6 +1,8 @@
 # \# ETHICAL\_\_HACKING
 
-[https://www.youtube.com/watch?v=fB3DI48MNno&list=PLnjNR4-S-EVqfJWovxEJyb7I0IOkKkoYM&index=2](https://www.youtube.com/watch?v=fB3DI48MNno&list=PLnjNR4-S-EVqfJWovxEJyb7I0IOkKkoYM&index=2)
+{% embed url="https://www.youtube.com/watch?v=fB3DI48MNno&list=PLnjNR4-S-EVqfJWovxEJyb7I0IOkKkoYM&index=2" %}
+
+
 
 [https://hackertarget.com/10-open-source-security-tools/](https://hackertarget.com/10-open-source-security-tools/)
 
@@ -38,49 +40,89 @@
 
 [https://intruder.io/](https://intruder.io/)
 
-[https://openvpn.net/private-tunnel/](https://openvpn.net/private-tunnel/)
+{% embed url="https://openvpn.net/private-tunnel/" %}
 
-[https://portswigger.net/burp](https://portswigger.net/burp)
 
-[https://pypi.org/project/Bluto/](https://pypi.org/project/Bluto/)
 
-[https://shop.hak5.org/pages/metasploit-minute](https://shop.hak5.org/pages/metasploit-minute)
+{% embed url="https://portswigger.net/burp" %}
 
-[https://tools.kali.org/web-applications/dirbuster](https://tools.kali.org/web-applications/dirbuster)
 
-[https://www.cobaltstrike.com/](https://www.cobaltstrike.com/)
 
-[https://www.google.com/search?client=firefox-b-d&q=password+spraying](https://www.google.com/search?client=firefox-b-d&q=password+spraying)
+{% embed url="https://pypi.org/project/Bluto/" %}
 
-[https://www.google.com/search?client=firefox-b-d&q=socat](https://www.google.com/search?client=firefox-b-d&q=socat)
 
-[https://www.greycampus.com/blog/information-security/top-open-source-intelligence-tools](https://www.greycampus.com/blog/information-security/top-open-source-intelligence-tools)
 
-[https://www.hackthebox.eu/](https://www.hackthebox.eu/)
+{% embed url="https://shop.hak5.org/pages/metasploit-minute" %}
 
-[https://www.hudsoncourses.com/ethical-hacker-vs-penetration-tester/](https://www.hudsoncourses.com/ethical-hacker-vs-penetration-tester/)
+{% embed url="https://tools.kali.org/web-applications/dirbuster" %}
 
-[https://www.metasploit.com/](https://www.metasploit.com/)
 
-[https://www.privatetunnel.com/](https://www.privatetunnel.com/)
 
-[https://www.tenable.com/products/nessus](https://www.tenable.com/products/nessus)
+{% embed url="https://www.cobaltstrike.com/" %}
 
-[https://www.vulnhub.com/entry/kioptrix-level-1-1,22/](https://www.vulnhub.com/entry/kioptrix-level-1-1,22/)
 
-[https://www.wappalyzer.com/](https://www.wappalyzer.com/)
 
-[https://www.wireshark.org/](https://www.wireshark.org/)
+{% embed url="https://www.google.com/search?client=firefox-b-d&q=password+spraying" %}
 
-[https://www.youtube.com/watch?v=lZAoFs75\_cs](https://www.youtube.com/watch?v=lZAoFs75_cs)
 
-[https://www.hackerone.com/blog/resources-for-new-hackers](https://www.hackerone.com/blog/resources-for-new-hackers)
 
-[https://www.sans.org/security-resources/sec560/netcat\_cheat\_sheet\_v1.pdf](https://www.sans.org/security-resources/sec560/netcat_cheat_sheet_v1.pdf)
+{% embed url="https://www.google.com/search?client=firefox-b-d&q=socat" %}
 
-[https://sectools.org/tag/sniffers/](https://sectools.org/tag/sniffers/)
 
-[https://en.wikipedia.org/wiki/PuTTY](https://en.wikipedia.org/wiki/PuTTY)
+
+{% embed url="https://www.greycampus.com/blog/information-security/top-open-source-intelligence-tools" %}
+
+
+
+{% embed url="https://www.hackthebox.eu/" %}
+
+
+
+{% embed url="https://www.hudsoncourses.com/ethical-hacker-vs-penetration-tester/" %}
+
+
+
+{% embed url="https://www.metasploit.com/" %}
+
+{% embed url="https://www.privatetunnel.com/" %}
+
+
+
+{% embed url="https://www.tenable.com/products/nessus" %}
+
+
+
+{% embed url="https://www.vulnhub.com/entry/kioptrix-level-1-1,22/" %}
+
+
+
+{% embed url="https://www.wappalyzer.com/" %}
+
+
+
+{% embed url="https://www.wireshark.org/" %}
+
+
+
+{% embed url="https://www.youtube.com/watch?v=lZAoFs75\_cs" %}
+
+
+
+{% embed url="https://www.hackerone.com/blog/resources-for-new-hackers" %}
+
+
+
+{% embed url="https://www.sans.org/security-resources/sec560/netcat\_cheat\_sheet\_v1.pdf" %}
+
+
+
+{% embed url="https://sectools.org/tag/sniffers/" %}
+
+
+
+{% embed url="https://en.wikipedia.org/wiki/PuTTY" %}
+
+
 
 [https://alternativeto.net/list/66/software-used-in-mr-robot](https://alternativeto.net/list/66/software-used-in-mr-robot)
 
@@ -112,5 +154,13 @@
 
 [https://infosecwriteups.com/](https://infosecwriteups.com/)
 
-[https://shop.hak5.org/](https://shop.hak5.org/)
+{% embed url="https://shop.hak5.org/" %}
+
+
+
+{% embed url="https://sectools.org/tag/sniffers/" %}
+
+{% embed url="https://www.concise-courses.com/hacking-tools/top-ten/" %}
+
+
 

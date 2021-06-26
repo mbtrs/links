@@ -52,19 +52,17 @@
 
 [https://madewithsvelte.com/](https://madewithsvelte.com/)
 
-{% embed url="https://madewithsvelte.com/svelte-table" %}
+[https://madewithsvelte.com/svelte-table](https://madewithsvelte.com/svelte-table)
 
-{% embed url="https://flaviocopes.com/svelte-templates-loops/" %}
+[https://flaviocopes.com/svelte-templates-loops/](https://flaviocopes.com/svelte-templates-loops/)
 
-{% embed url="https://www.youtube.com/watch?v=zojEMeQGGHs&list=PL4cUxeGkcC9hlbrVO\_2QFVqVPhlZmz7tO" %}
+[https://www.youtube.com/watch?v=zojEMeQGGHs&list=PL4cUxeGkcC9hlbrVO\_2QFVqVPhlZmz7tO](https://www.youtube.com/watch?v=zojEMeQGGHs&list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO)
 
-{% embed url="https://github.com/donovanh/svelte-image-loading/blob/master/src/App.svelte" %}
+[https://github.com/donovanh/svelte-image-loading/blob/master/src/App.svelte](https://github.com/donovanh/svelte-image-loading/blob/master/src/App.svelte)
 
-{% embed url="https://www.freecodecamp.org/news/the-svelte-handbook/" %}
+[https://www.freecodecamp.org/news/the-svelte-handbook/](https://www.freecodecamp.org/news/the-svelte-handbook/)
 
-{% embed url="https://flaviocopes.nyc3.digitaloceanspaces.com/svelte-handbook/svelte-handbook.pdf" %}
+[https://flaviocopes.nyc3.digitaloceanspaces.com/svelte-handbook/svelte-handbook.pdf](https://flaviocopes.nyc3.digitaloceanspaces.com/svelte-handbook/svelte-handbook.pdf)
 
-{% embed url="https://daveceddia.com/svelte-with-sass-in-vscode/" %}
-
-{% embed url="https://www.youtube.com/c/lihautan/playlists" %}
+[https://daveceddia.com/svelte-with-sass-in-vscode/](https://daveceddia.com/svelte-with-sass-in-vscode/)
 

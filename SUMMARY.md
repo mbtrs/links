@@ -5,6 +5,7 @@
 * [\# SVG\_\_GENERATOR](svg__generator.md)
 * [\# GENERATORS](generators.md)
 * [\# BACKGROUND\_\_GENERATORS](background__generators.md)
+* [\# TOOLS](tools.md)
 * [\# CHEATSHEETS](cheatsheets.md)
 * [\# REFERENCES](references.md)
 * [\# ETHICAL\_\_HACKING](ethical__hacking.md)
