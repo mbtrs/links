@@ -1,4 +1,4 @@
-# \# S V E L T E
+# \# SVELTE
 
 [https://www.mikenikles.com/blog/a-link-content-previewer-with-svelte-sapper](https://www.mikenikles.com/blog/a-link-content-previewer-with-svelte-sapper)
 
