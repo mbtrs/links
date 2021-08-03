@@ -1,34 +1,66 @@
 # \# REFERENCES
 
-[https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
+{% embed url="https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/" %}
 
-[https://cssreference.io/](https://cssreference.io/)
 
-[https://devdocs.io/](https://devdocs.io/)
 
-[https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/](https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/)
+{% embed url="https://cssreference.io/" %}
 
-[https://marksheet.io/introduction.html](https://marksheet.io/introduction.html)
 
-[https://cdnjs.com/libraries](https://cdnjs.com/libraries)
 
-[https://css-tricks.com/snippets/css/media-queries-for-standard-devices/](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
+{% embed url="https://devdocs.io/" %}
+
+
+
+{% embed url="https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/" %}
+
+
+
+{% embed url="https://marksheet.io/introduction.html" %}
+
+
+
+{% embed url="https://cdnjs.com/libraries" %}
+
+
+
+{% embed url="https://css-tricks.com/snippets/css/media-queries-for-standard-devices/" %}
+
+
 
 [https://www.mysqltutorial.org/mysql-show-tables/](https://www.mysqltutorial.org/mysql-show-tables/)
 
-[https://roadmap.sh/](https://roadmap.sh/)
 
-[https://www.datacamp.com/community/tutorials/role-underscore-python](https://www.datacamp.com/community/tutorials/role-underscore-python)
 
-[http://screensiz.es/](http://screensiz.es/)
+{% embed url="https://roadmap.sh/" %}
 
-[https://yesviz.com/](https://yesviz.com/)
 
-[https://www.staticgen.com/](https://www.staticgen.com/)
 
-[https://javascript.info/](https://javascript.info/)
+{% embed url="https://www.datacamp.com/community/tutorials/role-underscore-python" %}
 
-[https://learn-the-web.algonquindesign.ca/topics/](https://learn-the-web.algonquindesign.ca/topics/)
 
-[http://whatismyviewport.com/](http://whatismyviewport.com/)
+
+{% embed url="http://screensiz.es/" %}
+
+
+
+{% embed url="https://yesviz.com/" %}
+
+
+
+{% embed url="https://www.staticgen.com/" %}
+
+
+
+{% embed url="https://javascript.info/" %}
+
+
+
+{% embed url="https://learn-the-web.algonquindesign.ca/topics/" %}
+
+
+
+{% embed url="http://whatismyviewport.com/" %}
+
+
 
