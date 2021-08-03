@@ -1,34 +1,34 @@
 # \# REFERENCES
 
-{% embed url="https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/" %}
+[https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
 
-{% embed url="https://cssreference.io/" %}
+[https://cssreference.io/](https://cssreference.io/)
 
-{% embed url="https://devdocs.io/" %}
+[https://devdocs.io/](https://devdocs.io/)
 
-{% embed url="https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/" %}
+[https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/](https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/)
 
-{% embed url="https://marksheet.io/introduction.html" %}
+[https://marksheet.io/introduction.html](https://marksheet.io/introduction.html)
 
-{% embed url="https://cdnjs.com/libraries" %}
+[https://cdnjs.com/libraries](https://cdnjs.com/libraries)
 
-{% embed url="https://css-tricks.com/snippets/css/media-queries-for-standard-devices/" %}
+[https://css-tricks.com/snippets/css/media-queries-for-standard-devices/](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
 
-{% embed url="https://www.mysqltutorial.org/mysql-show-tables/" %}
+[https://www.mysqltutorial.org/mysql-show-tables/](https://www.mysqltutorial.org/mysql-show-tables/)
 
-{% embed url="https://roadmap.sh/" %}
+[https://roadmap.sh/](https://roadmap.sh/)
 
-{% embed url="https://www.datacamp.com/community/tutorials/role-underscore-python" %}
+[https://www.datacamp.com/community/tutorials/role-underscore-python](https://www.datacamp.com/community/tutorials/role-underscore-python)
 
-{% embed url="http://screensiz.es/" %}
+[http://screensiz.es/](http://screensiz.es/)
 
-{% embed url="https://yesviz.com/" %}
+[https://yesviz.com/](https://yesviz.com/)
 
-{% embed url="https://www.staticgen.com/" %}
+[https://www.staticgen.com/](https://www.staticgen.com/)
 
-{% embed url="https://javascript.info/" %}
+[https://javascript.info/](https://javascript.info/)
 
-{% embed url="https://learn-the-web.algonquindesign.ca/topics/" %}
+[https://learn-the-web.algonquindesign.ca/topics/](https://learn-the-web.algonquindesign.ca/topics/)
 
-{% embed url="http://whatismyviewport.com/" %}
+[http://whatismyviewport.com/](http://whatismyviewport.com/)
 
