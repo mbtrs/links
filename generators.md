@@ -24,5 +24,3 @@
 
 {% embed url="https://css-doodle.com/" %}
 
-
-
