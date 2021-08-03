@@ -20,11 +20,17 @@
 
 {% embed url="https://aymkdn.github.io/characters/" %}
 
-{% embed url="https://heroicons.com/" %}
+
+
+[https://heroicons.com/](https://heroicons.com/)
 
 {% embed url="https://iconic.app/" %}
 
+
+
 {% embed url="https://iconoir.com/" %}
+
+
 
 {% embed url="https://remixicon.com/" %}
 
