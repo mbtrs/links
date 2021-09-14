@@ -2,6 +2,8 @@
 
 {% embed url="https://www.youtube.com/watch?v=fB3DI48MNno&list=PLnjNR4-S-EVqfJWovxEJyb7I0IOkKkoYM&index=2" caption="" %}
 
+{% embed url="https://github.com/enaqx/awesome-pentest" %}
+
 {% embed url="https://hackertarget.com/10-open-source-security-tools/" caption="" %}
 
 {% embed url="https://www.blackhillsinfosec.com/30-things-to-get-you-started/" caption="" %}
