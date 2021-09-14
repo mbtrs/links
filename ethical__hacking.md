@@ -100,5 +100,22 @@
 
 {% embed url="https://www.concise-courses.com/hacking-tools/top-ten/" %}
 
+{% embed url="https://www.youtube.com/watch?v=8VL0K0rFgxw" %}
+
+{% embed url="https://hackersploit.org/" %}
+
+{% embed url="https://hackersploit.org/author/hackersploit/" %}
+
+{% embed url="https://duckduckgo.com/?t=ffcm&q=grabify&ia=web" %}
+
+{% embed url="http://ifconfig.io/" %}
+
+{% embed url="https://0xacab.org/jvoisin/mat2" %}
+
+{% embed url="https://www.youtube.com/channel/UCaXV-r0zzGOsVg3V2U164wA/videos" %}
+
+{% embed url="https://mobile.twitter.com/three_cube" %}
+
+{% embed url="https://www.hackers-arise.com/scripting" %}
 
 
