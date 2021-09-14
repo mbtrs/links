@@ -1,7 +1,6 @@
 ---
 description: >-
-  This is a collection of links that I have saved over time to help with various
-  projects.
+  This is a collection of links that I have saved over time.
 ---
 
 # W E L C O M E
