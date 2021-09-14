@@ -1,25 +1,26 @@
 # \# PRIVACY
 
-{% embed url="https://calyxos.org/" %}
+{% embed url="https://calyxos.org/" caption="" %}
 
-{% embed url="https://grapheneos.org/" %}
+{% embed url="https://grapheneos.org/" caption="" %}
 
-{% embed url="https://lineageos.org/" %}
+{% embed url="https://lineageos.org/" caption="" %}
 
-{% embed url="https://puri.sm/products/librem-5/#tech-specs" %}
+{% embed url="https://puri.sm/products/librem-5/\#tech-specs" caption="" %}
 
-{% embed url="https://sailfishos.org/" %}
+{% embed url="https://sailfishos.org/" caption="" %}
 
-{% embed url="https://tails.boum.org/" %}
+{% embed url="https://tails.boum.org/" caption="" %}
 
-{% embed url="https://adversarialfashion.com/" %}
+{% embed url="https://adversarialfashion.com/" caption="" %}
 
-{% embed url="https://www.plasma-mobile.org/" %}
+{% embed url="https://www.plasma-mobile.org/" caption="" %}
 
-{% embed url="https://www.pine64.org/pinephone/" %}
+{% embed url="https://www.pine64.org/pinephone/" caption="" %}
 
-{% embed url="https://www.iridium.com/phones/" %}
+{% embed url="https://www.iridium.com/phones/" caption="" %}
 
-{% embed url="https://searx.be/" %}
+{% embed url="https://searx.be/" caption="" %}
 
-{% embed url="https://metager.org/" %}
+{% embed url="https://metager.org/" caption="" %}
+

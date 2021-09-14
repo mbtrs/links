@@ -1,4 +1,4 @@
 # \# SVG\_\_GENERATOR
 
-{% embed url="https://picsvg.com/" %}
+{% embed url="https://picsvg.com/" caption="" %}
 

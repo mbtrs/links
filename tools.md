@@ -1,10 +1,10 @@
 # \# TOOLS
 
-{% embed url="https://www.345tool.com/" %}
+{% embed url="https://www.345tool.com/" caption="" %}
 
-{% embed url="https://1loc.dev/" %}
+{% embed url="https://1loc.dev/" caption="" %}
 
-{% embed url="https://a11y-style-guide.com/style-guide/" %}
+{% embed url="https://a11y-style-guide.com/style-guide/" caption="" %}
 
-{% embed url="https://namechk.com/" %}
+{% embed url="https://namechk.com/" caption="" %}
 

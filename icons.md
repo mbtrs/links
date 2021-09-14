@@ -1,36 +1,30 @@
 # \# ICONS
 
-{% embed url="https://konpa.github.io/devicon/" %}
+{% embed url="https://konpa.github.io/devicon/" caption="" %}
 
-{% embed url="https://freeicons.io/" %}
+{% embed url="https://freeicons.io/" caption="" %}
 
-{% embed url="https://www.toptal.com/designers/htmlarrows/" %}
+{% embed url="https://www.toptal.com/designers/htmlarrows/" caption="" %}
 
-{% embed url="https://petershaggynoble.github.io/MDI-Sandbox/" %}
+{% embed url="https://petershaggynoble.github.io/MDI-Sandbox/" caption="" %}
 
-{% embed url="https://dmitrybaranovskiy.github.io/raphael/icons/" %}
+{% embed url="https://dmitrybaranovskiy.github.io/raphael/icons/" caption="" %}
 
-{% embed url="https://simpleicons.org/" %}
+{% embed url="https://simpleicons.org/" caption="" %}
 
-{% embed url="https://materialdesignicons.com/" %}
+{% embed url="https://materialdesignicons.com/" caption="" %}
 
-{% embed url="https://www.svgrepo.com/" %}
+{% embed url="https://www.svgrepo.com/" caption="" %}
 
-{% embed url="https://cssicon.space/\#/" %}
+{% embed url="https://cssicon.space/\#/" caption="" %}
 
-{% embed url="https://aymkdn.github.io/characters/" %}
-
-
+{% embed url="https://aymkdn.github.io/characters/" caption="" %}
 
 [https://heroicons.com/](https://heroicons.com/)
 
-{% embed url="https://iconic.app/" %}
+{% embed url="https://iconic.app/" caption="" %}
 
+{% embed url="https://iconoir.com/" caption="" %}
 
-
-{% embed url="https://iconoir.com/" %}
-
-
-
-{% embed url="https://remixicon.com/" %}
+{% embed url="https://remixicon.com/" caption="" %}
 
