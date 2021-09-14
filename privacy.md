@@ -24,3 +24,4 @@
 
 {% embed url="https://metager.org/" caption="" %}
 
+{% embed url="https://www.qubes-os.org/" %}
