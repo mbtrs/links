@@ -35,3 +35,7 @@
 {% embed url="https://learn.shayhowe.com/" %}
 
 {% embed url="https://www.internetingishard.com/" %}
+
+{% embed url="https://www.cssportal.com/" %}
+
+{% embed url="https://roadmap.sh/" %}
