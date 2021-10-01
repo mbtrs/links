@@ -25,3 +25,5 @@
 {% embed url="https://metager.org/" caption="" %}
 
 {% embed url="https://www.qubes-os.org/" %}
+
+{% embed url="https://securityinabox.org/en/" %}
