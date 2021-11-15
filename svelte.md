@@ -1,8 +1,8 @@
 # \# SVELTE
 
-[https://www.mikenikles.com/blog/a-link-content-previewer-with-svelte-sapper](https://www.mikenikles.com/blog/a-link-content-previewer-with-svelte-sapper)
+{% embed url="https://www.mikenikles.com/blog/a-link-content-previewer-with-svelte-sapper" %}
 
-[https://svelte.dev/repl/d012a4cca3b64a99a89d58deaaa1c787?version=3.24.1](https://svelte.dev/repl/d012a4cca3b64a99a89d58deaaa1c787?version=3.24.1)
+{% embed url="https://svelte.dev/repl/d012a4cca3b64a99a89d58deaaa1c787?version=3.24.1" %}
 
 [https://www.arzidava.com/](https://www.arzidava.com/)
 
