@@ -11,4 +11,3 @@
 {% embed url="https://inventwithpython.com/bigbookpython/" caption="" %}
 
 {% embed url="https://dbader.org/blog/python-file-io" caption="" %}
-
