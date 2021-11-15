@@ -20,7 +20,7 @@
 
 {% embed url="https://aymkdn.github.io/characters/" caption="" %}
 
-{% embed url="https://heroicons.com/" caption="" %)
+{% embed url="https://heroicons.com/" caption="" %}
 
 {% embed url="https://iconic.app/" caption="" %}
 
