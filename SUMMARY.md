@@ -12,4 +12,5 @@
 * [\# RASPBERRY\_\_PI](raspberry__pi.md)
 * [\# SVELTE](svelte.md)
 * [\# PRIVACY](privacy.md)
-
+* [\# YOUTUBERS](youtubers.md)
+* [\# PYTHON](python.md)
