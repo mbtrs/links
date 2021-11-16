@@ -2,11 +2,9 @@
 
 {% embed url="https://www.raspberrypi.org/documentation/installation/noobs.md" %}
 
-{% embed url="https://pi-hole.net](https://pi-hole.net/" %}
+{% embed url="https://pi-hole.net" %}
 
-{% embed url="https://github.com/pi-hole/pi-hole](https://github.com/pi-hole/pi-hole/" %}
-
-{% embed url="https://projects.raspberrypi.org/en/projects/?software\[\]=html-css-javascript" %}
+{% embed url="https://github.com/pi-hole/pi-hole" %}
 
 {% embed url="https://raspberrytips.com/raspberry-pi-buying-guide" %}
 
