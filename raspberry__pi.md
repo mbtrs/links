@@ -4,8 +4,6 @@
 
 {% embed url="https://pi-hole.net" %}
 
-{% embed url="https://github.com/pi-hole/pi-hole" %}
-
 {% embed url="https://raspberrytips.com/raspberry-pi-buying-guide" %}
 
 {% embed url="https://www.techrepublic.com/article/raspberry-pi-the-smart-persons-guide/" %}
