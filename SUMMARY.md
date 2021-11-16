@@ -2,6 +2,7 @@
 
 * [W E L C O M E](README.md)
 * [\# BACKGROUND\_\_GENERATORS](background__generators.md)
+* [\# BLOGS](blogs.md)
 * [\# CHEATSHEETS](cheatsheets.md)
 * [\# ETHICAL\_\_HACKING](ethical__hacking.md)
 * [\# GENERATORS](generators.md)
