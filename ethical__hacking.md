@@ -121,3 +121,5 @@
 {% embed url="https://www.hackers-arise.com/scripting" caption="" %}
 
 {% embed url="https://www.hackerone.com/ethical-hacker/useful-online-resources-new-hackers" %}
+
+{% embed url="https://www.hackers-arise.com/scripting" %}
