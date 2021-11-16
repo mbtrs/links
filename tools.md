@@ -8,10 +8,14 @@
 
 {% embed url="https://namechk.com/" caption="" %}
 
-{% embed url="https://shields.io/category/social" %}
-
 {% embed url="https://www.fetoolkit.io/" %}
 
 {% embed url="https://viewdns.info/" %}
 
 {% embed url="https://tiny-helpers.dev/" %}
+
+{% embed url="https://omatsuri.app/" %}
+
+{% embed url="https://shields.io/" %}
+
+{% embed url="https://justdeleteme.xyz/" %}
