@@ -1,9 +1,9 @@
 # Table of contents
 
 * [W E L C O M E](README.md)
-* [🌀 BACKGROUND\_\_GENERATORS](background\_\_generators.md)
-* [🌀 BLOGS](blogs.md)
-* [# CHEATSHEETS](cheatsheets.md)
+* [🌀BACKGROUND\_\_GENERATORS](background\_\_generators.md)
+* [🌀BLOGS](blogs.md)
+* [🌀CHEATSHEETS](cheatsheets.md)
 * [# ETHICAL\_\_HACKING](ethical\_\_hacking.md)
 * [# GENERATORS](generators.md)
 * [# ICONS](icons.md)
