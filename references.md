@@ -39,3 +39,5 @@
 {% embed url="https://www.cssportal.com/" %}
 
 {% embed url="https://roadmap.sh/" %}
+
+{% embed url="https://sqlbolt.com/" %}
