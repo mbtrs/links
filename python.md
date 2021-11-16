@@ -20,3 +20,4 @@
 
 {% embed url="https://www.youtube.com/watch?v=sugvnHA7ElY" %}
 
+{% embed url="https://realpython.com/" %}
