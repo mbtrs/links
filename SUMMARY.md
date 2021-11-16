@@ -14,3 +14,4 @@
 * [\# PRIVACY](privacy.md)
 * [\# YOUTUBERS](youtubers.md)
 * [\# PYTHON](python.md)
+* [\# MISC](misc.md)
