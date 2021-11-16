@@ -13,3 +13,5 @@
 {% embed url="https://www.fetoolkit.io/" %}
 
 {% embed url="https://viewdns.info/" %}
+
+{% embed url="https://tiny-helpers.dev/" %}
