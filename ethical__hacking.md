@@ -122,4 +122,6 @@
 
 {% embed url="https://www.hackerone.com/ethical-hacker/useful-online-resources-new-hackers" %}
 
-{% embed url="https://www.hackers-arise.com/scripting" %}
+{% embed url="https://10minutemail.com/" %}
+
+{% embed url="https://www.throwawaymail.com/" %}
