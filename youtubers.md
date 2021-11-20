@@ -14,7 +14,7 @@
 
 {% embed url="https://www.youtube.com/c/GiraffeAcademy/playlists" caption="" %}
 
-{% embed url="" caption="" %}
+{% embed url="https://www.youtube.com/c/NetworkChuck/playlists" caption="" %}
 
 {% embed url="" caption="" %}
 
