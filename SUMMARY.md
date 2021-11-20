@@ -12,7 +12,6 @@
 * [🌀 PYTHON](python.md)
 * [🌀 RASPBERRY\_\_PI](raspberry\_\_pi.md)
 * [🌀 REFERENCES](references.md)
-* [🌀 SVELTE](svelte.md)
 * [🌀 SVG\_\_GENERATOR](svg\_\_generator.md)
 * [🌀 TOOLS](tools.md)
 * [🌀 YOUTUBERS](youtubers.md)
