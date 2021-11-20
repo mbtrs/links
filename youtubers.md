@@ -16,10 +16,3 @@
 
 {% embed url="https://www.youtube.com/c/NetworkChuck/playlists" caption="" %}
 
-{% embed url="" caption="" %}
-
-{% embed url="" caption="" %}
-
-{% embed url="" caption="" %}
-
-{% embed url="" caption="" %}
