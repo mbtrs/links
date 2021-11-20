@@ -6,11 +6,9 @@
 
 {% embed url="https://raspberrytips.com/raspberry-pi-buying-guide" %}
 
+{% embed url="https://pimylifeup.com/raspberry-pi-apache/" %}
+
 {% embed url="https://www.techrepublic.com/article/raspberry-pi-the-smart-persons-guide/" %}
-
-{% embed url="https://www.youtube.com/watch?v=ZXpGNBzHKRY" %}
-
-{% embed url="https://vilros.com/collections/raspberry-pi-kits/products/vilros-raspberry-pi-4-complete-starter-kit-with-fan-cooled-heavy-duty-aluminum-alloy-case" %}
 
 {% embed url="https://hackwarenews.com/why-aspiring-hackers-should-use-raspberry-pi/" %}
 
@@ -19,3 +17,11 @@
 {% embed url="https://www.ionos.com/digitalguide/server/configuration/set-up-a-raspberry-pi-web-server-with-lamp/" %}
 
 {% embed url="https://hub.balena.io/" %}
+
+{% embed url="https://www.youtube.com/watch?v=ZXpGNBzHKRY" %}
+
+{% embed url="https://www.youtube.com/c/ETAPRIME/videos" %}
+
+{% embed url="https://www.youtube.com/c/JeffGeerling/videos" %}
+
+{% embed url="https://stosb.com/blog/explaining-my-configs-sshd_config/" %}
