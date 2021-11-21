@@ -6,6 +6,8 @@
 
 {% embed url="https://github.com/philanderson888/python/tree/master/standalonePythonFiles" %}
 
+{% embed url="https://realpython.com/how-to-use-numpy-arange/" %}
+
 {% embed url="https://realpython.com/" %}
 
 {% embed url="https://automatetheboringstuff.com/" caption="" %}
