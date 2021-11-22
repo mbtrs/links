@@ -12,6 +12,8 @@
 
 {% embed url="https://automatetheboringstuff.com/" caption="" %}
 
+{% embed url="https://github.com/philanderson888/python/tree/master/standalonePythonFiles" %}
+
 {% embed url="https://learnxinyminutes.com/docs/python/" caption="" %}
 
 {% embed url="https://celikmustafa89.github.io/sololearn-python-notes/" caption="" %}
