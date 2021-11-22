@@ -16,6 +16,8 @@
 
 {% embed url="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" caption="" %}
 
+{% embed url="https://github.com/airbnb/javascript" %}
+
 {% embed url="https://www.tunnelsup.com/metasploit-cheat-sheet/" caption="" %}
 
 {% embed url="https://gist.github.com/hofmannsven/9164408" caption="" %}
