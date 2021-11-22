@@ -25,3 +25,5 @@
 {% embed url="https://www.youtube.com/c/JeffGeerling/videos" %}
 
 {% embed url="https://stosb.com/blog/explaining-my-configs-sshd_config/" %}
+
+{% embed url="https://github.com/thibmaek/awesome-raspberry-pi" %}
