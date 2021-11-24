@@ -16,3 +16,4 @@
 
 {% embed url="https://www.youtube.com/c/NetworkChuck/playlists" caption="" %}
 
+{% embed url="https://www.youtube.com/c/TechWithTim/playlists" %}
