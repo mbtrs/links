@@ -8,14 +8,14 @@
 
 {% embed url="https://namechk.com/" caption="" %}
 
-{% embed url="https://www.fetoolkit.io/" %}
+{% embed url="https://www.fetoolkit.io/" caption="" %}
 
-{% embed url="https://viewdns.info/" %}
+{% embed url="https://viewdns.info/" caption="" %}
 
-{% embed url="https://tiny-helpers.dev/" %}
+{% embed url="https://tiny-helpers.dev/" caption="" %}
 
-{% embed url="https://omatsuri.app/" %}
+{% embed url="https://omatsuri.app/" caption="" %}
 
-{% embed url="https://shields.io/" %}
+{% embed url="https://shields.io/" caption="" %}
 
-{% embed url="https://justdeleteme.xyz/" %}
+{% embed url="https://justdeleteme.xyz/" caption="" %}
