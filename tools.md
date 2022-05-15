@@ -19,3 +19,7 @@
 {% embed url="https://shields.io/" caption="" %}
 
 {% embed url="https://justdeleteme.xyz/" caption="" %}
+
+{% embed url="https://git.herrbischoff.com/awesome-macos-command-line/about/" caption="" %}
+
+{% embed url="https://git.herrbischoff.com/awesome-command-line-apps/about/" caption="" %}
