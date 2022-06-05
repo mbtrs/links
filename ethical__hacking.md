@@ -125,3 +125,5 @@
 {% embed url="https://10minutemail.com/" %}
 
 {% embed url="https://www.throwawaymail.com/" %}
+
+{% embed url="https://www.fakenamegenerator.com/" %}
