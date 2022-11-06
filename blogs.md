@@ -15,3 +15,5 @@
 {% embed url="https://fireship.io/lessons/" %}
 
 {% embed url="https://linuxhint.com/" %}
+
+{% embed url="https://automatetheboringstuff.com/#toc" caption="" %}
