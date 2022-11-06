@@ -1,5 +1,7 @@
 # \# ICONS
 
+{% embed url="https://apps.timwhitlock.info/emoji" caption="" %}
+
 {% embed url="https://konpa.github.io/devicon/" caption="" %}
 
 {% embed url="https://freeicons.io/" caption="" %}
