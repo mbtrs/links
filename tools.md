@@ -25,5 +25,3 @@
 {% embed url="https://git.herrbischoff.com/awesome-command-line-apps/about/" caption="" %}
 
 {% embed url="https://12ft.io/ios" caption="" %}
-
-{% embed url="https://branition.com/colors" caption="" %}
