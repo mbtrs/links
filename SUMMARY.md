@@ -15,4 +15,4 @@
 * [🌀 SVG\_\_GENERATOR](svg\_\_generator.md)
 * [🌀 TOOLS](tools.md)
 * [🌀 YOUTUBERS](youtubers.md)
-* [🌀 OLD BLOG POSTS](Old_Blog_Posts.md)
+* [🌀 OLD BLOG POSTS](old_blog_posts.md)
