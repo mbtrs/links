@@ -27,3 +27,7 @@
 {% embed url="https://ihateregex.io/" caption="" %}
 
 {% embed url="https://generators.shecodes.io/" caption="" %}
+
+{% embed url="https://layout.bradwoods.io/" caption="" %}
+
+{% embed url="https://convertingcolors.com/tools.html" caption="" %}
