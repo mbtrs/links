@@ -29,3 +29,5 @@
 {% embed url="https://css-tricks.com/almanac/" caption="" %}
 
 {% embed url="https://www.explainshell.com/" caption="" %}
+
+{% embed url="https://htmlcheatsheet.com/" caption="" %}
