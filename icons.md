@@ -31,3 +31,5 @@
 {% embed url="https://remixicon.com/" caption="" %}
 
 {% embed url="https://iconbuddy.app/" caption="" %}
+
+{% embed url="https://www.flaticon.com/" caption="" %}
