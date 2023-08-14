@@ -30,3 +30,4 @@
 
 {% embed url="https://remixicon.com/" caption="" %}
 
+{% embed url="https://iconbuddy.app/" caption="" %}
