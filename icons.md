@@ -4,7 +4,7 @@
 
 {% embed url="https://konpa.github.io/devicon/" caption="" %}
 
-{% embed url="https://freeicons.io/" caption="" %}
+{% embed url="https://freeicons.io" caption="" %}
 
 {% embed url="https://www.toptal.com/designers/htmlarrows/" caption="" %}
 
