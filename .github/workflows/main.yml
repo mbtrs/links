@@ -22,5 +22,8 @@ jobs:
     - name: Install dependencies
       run: npm install
 
-    - name: Check links in Markdown files
+    - name: Extract URLs from Jekyll-style links
+      run: npm run extract-urls
+
+    - name: Check links
       run: npm run check-links
