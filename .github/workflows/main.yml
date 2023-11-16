@@ -22,8 +22,7 @@ jobs:
     - name: Install dependencies
       run: npm install
 
-    - name: Extract URLs from Jekyll-style links
-      run: npm run extract-urls
-
-    - name: Check links
-      run: npm run check-links
+    - name: Extract and check links
+      run: |
+        grep -rhoP '{%\s*embed\s*url="\K[^"]*' ./**/*.md > extracted-links.txt
+        markdown-link-check 'extracted-links.txt' --config .markdown-link-check.json
