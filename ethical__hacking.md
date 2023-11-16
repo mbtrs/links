@@ -58,8 +58,6 @@
 
 {% embed url="https://www.hackthebox.eu/" caption="" %}
 
-{% embed url="https://www.hudsoncourses.com/ethical-hacker-vs-penetration-tester/" caption="" %}
-
 {% embed url="https://www.metasploit.com/" caption="" %}
 
 {% embed url="https://www.privatetunnel.com/" caption="" %}
@@ -76,8 +74,6 @@
 
 {% embed url="https://www.hackerone.com/blog/resources-for-new-hackers" caption="" %}
 
-{% embed url="https://www.sans.org/security-resources/sec560/netcat\_cheat\_sheet\_v1.pdf" caption="" %}
-
 {% embed url="https://sectools.org/tag/sniffers/" caption="" %}
 
 {% embed url="https://en.wikipedia.org/wiki/PuTTY" caption="" %}
@@ -88,7 +84,7 @@
 
 {% embed url="https://infosecwriteups.com/whats-tools-i-use-for-my-recon-during-bugbounty-ec25f7f12e6d" caption="" %}
 
-{% embed url="https://censys.io/ipv4" caption="" %}
+{% embed url="https://search.censys.io" caption="" %}
 
 {% embed url="https://www.shodan.io/" caption="" %}
 
