@@ -1,7 +1,7 @@
 const fs = require('fs');
 const { execSync } = require('child_process');
 
-const markdownFiles = ['file1.md', 'file2.md']; // Add your Markdown files here
+const markdownFiles = ['blogs.md', 'file2.md']; // Add your Markdown files here
 
 const extractedUrls = markdownFiles.reduce((urls, file) => {
   const content = fs.readFileSync(file, 'utf-8');
