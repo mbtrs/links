@@ -25,5 +25,8 @@ jobs:
 
     - name: Extract and check links
       run: |
-        grep -rhoP '{%\s*embed\s*url="\K[^"]*' ./*.md > extracted-links.txt
-        markdown-link-check 'extracted-links.txt' --config .markdown-link-check.json
+       grep -rhoP --include='*.md' '{%\s*embed\s*url="\K[^"]*' . | \
+        while IFS= read -r -d '' file; do \
+          echo "Checking links in $file"; \
+          markdown-link-check "$file" --config .markdown-link-check.json; \
+        done > extracted-links.txt
