@@ -23,14 +23,10 @@ jobs:
       run: |
         npm install -g markdown-link-check
 
-    - name: Extract and check links
+    - name: Extract and display links
       run: |
-        grep -rhoP --include='*.md' '{%\s*embed\s*url="\K[^"]*' . | \
-          while IFS= read -r -d '' file; do \
-            echo "Checking links in $file"; \
-            cat "$file"; \
-            markdown-link-check "$file" --config .markdown-link-check.json; \
-          done > extracted-links.txt
+        find . -type f -name "*.md" -exec awk '/{%\s*embed\s*url="/{print substr($0, index($0,$3))}' {} + > extracted-links.txt
+        cat extracted-links.txt
 
-    - name: Display extracted links
-      run: cat extracted-links.txt
+    - name: Check links
+      run: markdown-link-check 'extracted-links.txt' --config .markdown-link-check.json
