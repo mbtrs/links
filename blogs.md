@@ -18,4 +18,4 @@
 
 {% embed url="https://automatetheboringstuff.com/#toc" caption="" %}
 
-{% embed url="https://www.youtube.com/fssdsa" caption="" %}
+{% embed url="http://fgdfgss.com" caption="" %}
