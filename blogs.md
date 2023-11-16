@@ -12,7 +12,7 @@
 
 {% embed url="https://www.freecodecamp.org/news/" %}
 
-{% embed url="https://fireshinbvbp.io/lessons/" %}
+{% embed url="https://fireship.io/lessons/" %}
 
 {% embed url="https://linuxhint.com/" %}
 
