@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "check-links": "markdown-link-check '**/*.md' --config .markdown-link-check.json"
+    "extract-urls": "node extract-urls.js",
+    "check-links": "markdown-link-check 'extracted-links.txt' --config .markdown-link-check.json"
   },
   "devDependencies": {
     "markdown-link-check": "^3.7.0"
