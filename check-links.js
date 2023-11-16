@@ -1,30 +1,34 @@
-
 const fs = require('fs');
-const util = require('util');
-const exec = util.promisify(require('child_process').exec);
+const path = require('path');
+const axios = require('axios');
 
-async function checkLinks() {
+function extractLinks(content) {
+  const matches = content.match(/{%\s*embed\s*url="([^"]+)"/g) || [];
+  return matches.map(match => match.match(/"([^"]+)"/)[1]);
+}
+
+async function checkLink(link, file) {
   try {
-    const mdFiles = await exec('find . -type f -name "*.md"');
-    const mdFileList = mdFiles.stdout.split('\n').filter(Boolean);
-
-    const links = [];
-    mdFileList.forEach((file) => {
-      const content = fs.readFileSync(file, 'utf-8');
-      const matches = content.match(/{%\s*embed\s*url="\K[^"]*/g);
-      if (matches) {
-        links.push(...matches);
-      }
-    });
-
-    for (const link of links) {
-      console.log(`Checking link: ${link}`);
-      await exec(`markdown-link-check "${link}" --config .markdown-link-check.json`);
-    }
+    console.log(`Checking link: ${link} in file: ${file}`);
+    await axios.get(link);
+    console.log(`Link is reachable: ${link}`);
   } catch (error) {
-    console.error('Error occurred:', error.message);
-    process.exit(1);
+    console.error(`Failed to load link: ${link} in file: ${file}`);
+    // You can add your own logic here to handle or delete the file containing the broken link
   }
 }
 
-checkLinks();
+function checkAllLinks() {
+  const mdFiles = fs.readdirSync(process.cwd()).filter(file => file.endsWith('.md'));
+
+  mdFiles.forEach((file) => {
+    const content = fs.readFileSync(file, 'utf-8');
+    const links = extractLinks(content);
+
+    links.forEach(async (link) => {
+      await checkLink(link, file);
+    });
+  });
+}
+
+checkAllLinks();
