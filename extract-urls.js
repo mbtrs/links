@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const markdownFiles = ['./blogs.md', './cheatsheets.md']; // Add your Markdown files here
+const markdownFiles = ['blogs.md', 'cheatsheets.md']; // Add your Markdown files here
 
 const extractedUrls = markdownFiles.reduce((urls, file) => {
   const content = fs.readFileSync(file, 'utf-8');
