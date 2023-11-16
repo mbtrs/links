@@ -4,7 +4,7 @@
 
 {% embed url="https://hackerthemes.com/bootstrap-cheatsheet/" caption="" %}
 
-{% embed url="https://www.datacamp.com/community/data-science-cheatsheets" caption="" %}
+{% embed url="https://www.datacamp.com/cheat-sheet" caption="" %}
 
 {% embed url="https://devhints.io/" caption="" %}
 
