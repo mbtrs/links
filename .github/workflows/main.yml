@@ -28,5 +28,10 @@ jobs:
         find . -type f -name "*.md" -exec awk '/{%\s*embed\s*url="/{print substr($0, index($0,$3))}' {} + > extracted-links.txt
         cat extracted-links.txt
 
-    - name: Check links
-      run: markdown-link-check 'extracted-links.txt' --config .markdown-link-check.json
+    - name: Check links with filenames
+      run: |
+        while IFS= read -r link; do
+          filename=$(grep -rlF "$link" ./*.md)
+          echo "Checking link in $filename: $link"
+          markdown-link-check "$link" --config .markdown-link-check.json
+        done < extracted-links.txt
