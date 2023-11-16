@@ -14,13 +14,18 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: '14'
-
-    - name: Install dependencies
-      run: npm install axios
-
     - name: Check links
-      run: node check-links.js
+      run: |
+        for file in $(find . -name "*.md"); do
+          while read -r line; do
+            if [[ $line =~ \{%\s*embed\s*url=\"([^\"]+)\" ]]; then
+              link="${BASH_REMATCH[1]}"
+              echo "Checking link: $link in file: $file"
+              response_code=$(curl -s -o /dev/null -w "%{http_code}" "$link")
+              if [ "$response_code" -ne 200 ]; then
+                echo "Link is broken: $link in file: $file"
+                # You can add your own logic here to handle or delete the file containing the broken link
+              fi
+            fi
+          done < "$file"
+        done
