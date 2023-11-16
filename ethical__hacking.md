@@ -16,8 +16,6 @@
 
 {% embed url="https://www.hackerone.com/" caption="" %}
 
-{% embed url="https://www.owasp.org/index.php/Credential\_stuffing" caption="" %}
-
 {% embed url="https://hackertarget.com/hacker-tools-mr-robot/" caption="" %}
 
 {% embed url="https://www.youtube.com/watch?v=3Kq1MIfTWCE&feature=youtu.be&t=31618" caption="" %}
