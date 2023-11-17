@@ -6,7 +6,7 @@
 
 {% embed url="https://lineageos.org/" caption="" %}
 
-{% embed url="https://puri.sm/products/librem-5/\#tech-specs" caption="" %}
+{% embed url="https://puri.sm/products/librem-5/" caption="" %}
 
 {% embed url="https://sailfishos.org/" caption="" %}
 
