@@ -14,14 +14,11 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
-    - name: Install httpie
-      run: sudo apt-get install httpie -y
-
     - name: Check links
       run: |
         find . -name "*.md" -exec grep -oP '\{%\s*embed\s*url="\K[^"]+' {} + | while read -r link; do
           echo "Checking link: $link"
-          if ! http --check-status --ignore-stdin --follow "$link"; then
+          if wget --spider "$link" 2>&1 | grep -q '404 Not Found'; then
             echo "Link is broken: $link"
             # You can add your own logic here to handle or delete the file containing the broken link
           else
