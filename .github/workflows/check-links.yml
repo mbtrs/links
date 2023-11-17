@@ -14,14 +14,19 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
-    - name: Check links
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '14'
+
+    - name: Install dependencies
       run: |
-        find . -name "*.md" -exec grep -oP '\{%\s*embed\s*url="\K[^"]+' {} + | while read -r link; do
-          echo "Checking link: $link"
-          if wget --spider "$link" 2>&1 | grep -q '404 Not Found'; then
-            echo "Link is broken: $link"
-            # You can add your own logic here to handle or delete the file containing the broken link
-          else
-            echo "Link is reachable: $link"
-          fi
-        done
+        npm install -g markdown-link-check
+
+    - name: Extract and display links
+      run: |
+        find . -type f -name "*.md" -exec awk '/{%\s*embed\s*url="/{print substr($0, index($0,$3))}' {} + > extracted-links.txt
+        cat extracted-links.txt
+
+    - name: Check links
+      run: markdown-link-check 'extracted-links.txt' --config .markdown-link-check.json
