@@ -16,14 +16,12 @@ jobs:
 
     - name: Check links
       run: |
-        find . -name "*.md" -print0 | while IFS= read -r -d '' file; do
-          grep -oP '\{%\s*embed\s*url="\K[^"]+' "$file" | while IFS= read -r link; do
-            echo "Checking link: $link in file: $file"
-            response_code=$(curl -s -o /dev/null -w "%{http_code}" "$link")
-            echo "Response code: $response_code"
-            if [ "$response_code" -ne 200 ]; then
-              echo "Link is broken: $link in file: $file"
-              # You can add your own logic here to handle or delete the file containing the broken link
-            fi
-          done
+        find . -name "*.md" -exec grep -oP '\{%\s*embed\s*url="\K[^"]+' {} + | while read -r link; do
+          echo "Checking link: $link"
+          if curl -s --head "$link" | grep -q "HTTP/1.1 404"; then
+            echo "Link is broken: $link"
+            # You can add your own logic here to handle or delete the file containing the broken link
+          else
+            echo "Link is reachable: $link"
+          fi
         done
