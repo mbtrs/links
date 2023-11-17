@@ -82,13 +82,13 @@
 
 {% embed url="https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw/videos" caption="" %}
 
+{% embed url="https://infosecwriteups.com/" caption="" %}
+
 {% embed url="https://infosecwriteups.com/whats-tools-i-use-for-my-recon-during-bugbounty-ec25f7f12e6d" caption="" %}
 
 {% embed url="https://search.censys.io" caption="" %}
 
 {% embed url="https://www.shodan.io/" caption="" %}
-
-{% embed url="https://infosecwriteups.com/" caption="" %}
 
 {% embed url="https://shop.hak5.org/" caption="" %}
 
