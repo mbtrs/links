@@ -23,9 +23,9 @@ jobs:
       run: |
         npm install -g markdown-link-check
 
-    - name: Extract and display links
+    - name: Extract and check links
       run: |
-        find . -type f -name "*.md" -exec awk '/{%\s*embed\s*url="/{print substr($0, index($0,$3)), FILENAME}' {} + > extracted-links.txt
+        find . -type f -name "*.md" -exec awk '/{%\s*embed\s*url="/{print FILENAME, substr($0, index($0,$3))}' {} + > extracted-links.txt
         cat extracted-links.txt
 
     - name: Check links
