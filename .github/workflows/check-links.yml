@@ -18,7 +18,7 @@ jobs:
       run: |
         find . -name "*.md" -exec grep -oP '\{%\s*embed\s*url="\K[^"]+' {} + | while read -r link; do
           echo "Checking link: $link"
-          if curl -s --head "$link" | grep -q "HTTP/1.1 404"; then
+          if curl -s --head "$link" | grep -q "HTTP/.* 404"; then
             echo "Link is broken: $link"
             # You can add your own logic here to handle or delete the file containing the broken link
           else
