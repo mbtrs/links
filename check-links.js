@@ -13,8 +13,12 @@ async function checkLink(link, file) {
     await axios.get(link);
     console.log(`Link is reachable: ${link}`);
   } catch (error) {
-    console.error(`Failed to load link: ${link} in file: ${file}`);
-    // You can add your own logic here to handle or delete the file containing the broken link
+    if (error.response && error.response.status === 404) {
+      console.error(`Link is broken (404): ${link} in file: ${file}`);
+      // You can add your own logic here to handle or delete the file containing the broken link
+    } else {
+      console.error(`Failed to load link: ${link} in file: ${file}`);
+    }
   }
 }
 
