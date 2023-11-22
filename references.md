@@ -34,7 +34,7 @@
 
 {% embed url="https://learn.shayhowe.com/" %}
 
-{% embed url="https://www.internetingishard.com/" %}
+{% embed url="https://internetingishard.netlify.app" %}
 
 {% embed url="https://www.cssportal.com/" %}
 
