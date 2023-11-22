@@ -18,7 +18,7 @@
 
 {% embed url="https://www.svgrepo.com/" caption="" %}
 
-{% embed url="https://cssicon.space/\#/" caption="" %}
+{% embed url="https://cssicon.space" caption="" %}
 
 {% embed url="https://aymkdn.github.io/characters/" caption="" %}
 
