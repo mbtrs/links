@@ -43,5 +43,3 @@
 {% embed url="https://sqlbolt.com/" %}
 
 {% embed url="https://eloquentjavascript.net/" %}
-
-{% embed url="https://scotch.io/tutorials/deep-dive-into-css-grid-2" %}
