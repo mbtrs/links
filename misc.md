@@ -40,26 +40,8 @@
 
 {% embed url="https://www.techtarget.com/searchwindowsserver/tip/Using-Diskpart-to-create-extend-or-delete-a-disk-partition" caption="" %}
 
-{% embed url="https://brutalist.report/" caption="" %}
-
 {% embed url="https://www.youtube.com/watch?v=epgXuMB1sF8" caption="" %}
 
 {% embed url="https://www.kalzumeus.com/2012/01/23/salary-negotiation/" caption="" %}
-
-{% embed url="" caption="" %}
-
-{% embed url="" caption="" %}
-
-{% embed url="" caption="" %}
-
-{% embed url="" caption="" %}
-
-{% embed url="" caption="" %}
-
-{% embed url="" caption="" %}
-
-{% embed url="" caption="" %}
-
-{% embed url="" caption="" %}
 
 {% embed url="" caption="" %}
