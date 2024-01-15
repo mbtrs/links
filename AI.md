@@ -4,3 +4,4 @@
 
 {% embed url="https://www.makeuseof.com/how-to-create-better-ai-art-tips/" caption="" %}
 
+{% embed url="https://flowgpt.com/" caption="" %}
