@@ -44,7 +44,7 @@
 
 {% embed url="https://www.youtube.com/watch?v=epgXuMB1sF8" caption="" %}
 
-{% embed url="" caption="" %}
+{% embed url="https://www.kalzumeus.com/2012/01/23/salary-negotiation/" caption="" %}
 
 {% embed url="" caption="" %}
 
