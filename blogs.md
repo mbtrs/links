@@ -17,3 +17,8 @@
 {% embed url="https://linuxhint.com/" %}
 
 {% embed url="https://automatetheboringstuff.com/#toc" caption="" %}
+
+{% embed url="https://cybernews.com/" caption="" %}
+
+{% embed url="https://brutalist.report/" caption="" %}
+
