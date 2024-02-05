@@ -23,3 +23,5 @@
 {% embed url="https://git.herrbischoff.com/awesome-command-line-apps/about/" caption="" %}
 
 {% embed url="https://12ft.io/ios" caption="" %}
+
+{% embed url="https://www.mail-tester.com/?utm_source=tldrmarketing" caption="" %}
